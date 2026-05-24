@@ -10,6 +10,7 @@ HTML5 / CSS3
 JavaScript
 FPDF
 SMTP (Notificações por E-mail)
+
 ✨ Funcionalidades
 🔐 Sistema de login com níveis de acesso (Usuário, TI e Administrador)
 📋 Abertura e gerenciamento de chamados
@@ -21,6 +22,7 @@ SMTP (Notificações por E-mail)
 📧 Notificações automáticas por e-mail
 👨‍💼 Painel administrativo para criação e gerenciamento de usuários
 🌙 Interface moderna com tema institucional dark
+
 🎯 Objetivo do projeto
 
 Criar uma plataforma interna moderna e eficiente para controle de suporte técnico, facilitando o atendimento entre colaboradores e equipe de TI, além de melhorar organização, rastreabilidade e tempo de resposta.
@@ -33,12 +35,15 @@ Empresas
 Secretarias
 Ambientes corporativos
 Redes internas (Intranet)
+
 ⚙️ Diferenciais
 Sistema leve e rápido
 Banco SQLite integrado
 Fácil implantação em rede local
 Interface responsiva
 Estrutura pronta para expansão futura
+
+
 📌 Futuras melhorias
 Sistema de inventário integrado
 Notificações em tempo real
